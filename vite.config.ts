@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/spot-search-bar-deals/',  // Match your repo name
+  base: '/ui-deal-hub/',  // Match your repo name
 })

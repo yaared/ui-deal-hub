@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yaared.github.io/deal-hub",
+  "homepage": "https://yaared.github.io/ui-deal-hub",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

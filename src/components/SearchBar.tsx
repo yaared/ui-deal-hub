@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import styles from './SearchBar.module.css';
 
-const API_URL = 'https://web-production-95ea.up.railway.app';
+const API_URL = 'https://web-production-5973.up.railway.app';
 
 interface AskResponse {
   answer: string;
